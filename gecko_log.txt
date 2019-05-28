@@ -1,0 +1,13 @@
+Unable to read VR Path Registry from C:\Users\Automation\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514268265754	Marionette	DEBUG	Register listener.js for window 4294967297
+1514268265814	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514268266079	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514268266080	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Automation\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1514268267095	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1514268267405	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Selen&json=1&p=3&sid=25394_1456_21084_17001_25178_22160&req=2&csor=5&pwd=Sele&cb=jQuery110204761744845892376_1514268266811&_=1514268266817, line 1: TypeError: jQuery110204761744845892376_1514268266811 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=Seleni&json=1&p=3&sid=25394_1456_21084_17001_25178_22160&req=2&csor=6&pwd=Selen&cb=jQuery110204761744845892376_1514268266811&_=1514268266818, line 1: TypeError: jQuery110204761744845892376_1514268266811 is not a function
+1514268269788	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
